@@ -1,0 +1,13 @@
+Lucas era um programador Python júnior, apaixonado por resolver problemas. Todas as manhãs, ele abria seu notebook com uma caneca de café ao lado e o terminal piscando, esperando o próximo desafio.
+
+Certa vez, recebeu a tarefa de otimizar um script que demorava minutos para processar uma simples planilha. Passou horas analisando o código, que parecia um labirinto de loops aninhados e ifs desnecessários. Às 23h, com os olhos pesando e o café já frio, ele exclamou:
+— “Por que isso tá tão lento?!”
+
+Decidiu sair para respirar. No caminho até a cozinha, a resposta veio do nada: “pandas!”
+
+Correu de volta, reescreveu o código usando DataFrames, aplicou uma única linha de filtragem, e o programa que antes levava três minutos rodou em menos de dois segundos.
+
+No dia seguinte, o chefe olhou o relatório e perguntou:
+— “Como você fez isso?”
+Lucas sorriu e respondeu:
+— “Apenas ensinei o Python a pensar como um humano… mas sem dormir.”
