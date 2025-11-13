@@ -1,0 +1,17 @@
+Explicando o que cada expressão usada sobre o assunto API significa
+
+# Endpoint: URL específica na qual a requisição é feita.
+
+# Métodos HTTP:
+    - GET: Obter dados.
+    - POST: Enviar dados.
+    - PUT: Atualizar dados.
+    - DELETE: Deletar dados.
+
+# Headers: Informações adicionais enviadas junto com a requisição. Ex: dados de autenticação.
+
+# Body: Parte da requisição que os dados são enviados.
+    - JSON
+    - XML
+    - YAML
+    - Outros
