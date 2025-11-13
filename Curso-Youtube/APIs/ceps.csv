@@ -1,0 +1,11 @@
+;cep;logradouro;complemento;unidade;bairro;localidade;uf;estado;regiao;ibge;gia;ddd;siafi
+0;01001-000;Praça da Sé;lado ímpar;;Sé;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+1;20040-020;Praça Pio X;lado ímpar;;Centro;Rio de Janeiro;RJ;Rio de Janeiro;Sudeste;3304557;;21;6001
+2;30110-050;Praça Presidente Arthur Bernardes;;;Funcionários;Belo Horizonte;MG;Minas Gerais;Sudeste;3106200;;31;4123
+3;40010-000;Avenida da França;;;Comércio;Salvador;BA;Bahia;Nordeste;2927408;;71;3849
+4;70040-010;Quadra SBN Quadra 1;;;Asa Norte;Brasília;DF;Distrito Federal;Centro-Oeste;5300108;;61;9701
+5;80010-000;Rua José Loureiro;;;Centro;Curitiba;PR;Paraná;Sul;4106902;;41;7535
+6;90010-000;Rua Siqueira Campos;até 944/945;;Centro Histórico;Porto Alegre;RS;Rio Grande do Sul;Sul;4314902;;51;8801
+7;60010-000;Avenida Presidente Castelo Branco;de 200/201 a 1999/2000;;Moura Brasil;Fortaleza;CE;Ceará;Nordeste;2304400;;85;1389
+8;69010-000;Avenida Eduardo Ribeiro;de 301/302 a 630/631;;Centro;Manaus;AM;Amazonas;Norte;1302603;;92;0255
+9;14850-021;Rua Treze de Maio;;;Centro;Pradópolis;SP;São Paulo;Sudeste;3540903;5575;16;6919
