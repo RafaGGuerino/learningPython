@@ -1,0 +1,5 @@
+Desenvolvi um aplicativo em Python utilizando Streamlit e a biblioteca requests para consultar informações de endereços por meio da API pública ViaCEP. 
+
+O usuário digita um CEP na interface web, e o sistema envia uma requisição à API, recebendo dados como logradouro, bairro, cidade e estado. 
+O aplicativo valida o CEP informado, trata possíveis erros e exibe os resultados de forma organizada e intuitiva na tela. 
+Esse projeto demonstra o uso integrado de APIs externas, criação de interfaces simples com Streamlit e manipulação de dados em Python.
